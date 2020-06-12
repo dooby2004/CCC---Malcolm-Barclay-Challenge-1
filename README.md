@@ -19,4 +19,5 @@ The UserID header is used to access a user file, so file inclusion can be exploi
 
 ## Walkthrough
 The student should recognize that the UserID header is a 4-digit hexadecimal value and should create a piece of code similar to src/Solution.py to attempt each header up to the value of the given page or the value of FFFF and check for the page with 'Keri Benton' in it.
+
 When on the page, the Student should explore the source code to realise that one of the links is hidden from them and follow it to reach a file with the flag.
