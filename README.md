@@ -1,12 +1,12 @@
 malcolm.barclay2004@gmail.com
 
-# Wrong Users
+# Infiltrating Accounts
 
 ## Flag
 Flag: m4k3_1T_R4nd0M
 
 ## Briefing
-Go to [url] and gain access to Keri Benton's File Page. Then access the file being hidden there to get the flag
+Go to [url] and gain access to Keri Benton's File Page. Then access the file being hidden there to get the flag.
 
 By dooby2004.
 
